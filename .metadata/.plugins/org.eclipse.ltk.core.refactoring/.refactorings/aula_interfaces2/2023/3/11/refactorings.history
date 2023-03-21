@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Parcelas.java&apos; to &apos;model.services.TaxService.java&apos;&#x0D;&#x0A;- Original project: &apos;aula_interfaces2&apos;&#x0D;&#x0A;- Destination element: &apos;model.services.TaxService.java&apos;&#x0D;&#x0A;- Original element: &apos;model.entities.Parcelas.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;model.services{TaxService.java" element1="/src&lt;model.entities{Parcelas.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1678989345624" units="1" version="1.0"/>
+</session>

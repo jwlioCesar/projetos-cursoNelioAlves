@@ -1,0 +1,48 @@
+package model.entities;
+
+import model.entities.Contract;
+
+public class Parcelas {
+
+	private Integer numeroDeParcelas;
+
+	private Contract contract;
+
+	private TaxService tax;
+
+	public Parcelas(Integer numeroDeParcelas, Contract contract, TaxService tax) {
+	
+		this.numeroDeParcelas = numeroDeParcelas;
+		this.contract = contract;
+		this.tax = tax;
+	}
+
+	public Integer getNumeroDeParcelas() {
+		return numeroDeParcelas;
+	}
+
+	public void setNumeroDeParcelas(Integer numeroDeParcelas) {
+		this.numeroDeParcelas = numeroDeParcelas;
+	}
+
+	public TaxService getTax() {
+		return tax;
+	}
+
+	public void setTax(TaxService tax) {
+		this.tax = tax;
+	}
+
+	public Contract getContract() {
+		return contract;
+	}
+
+	public void setContract(Contract contract) {
+		this.contract = contract;
+	}
+
+	public void processoDeParcelas(Contract contract) {
+
+	}
+
+}

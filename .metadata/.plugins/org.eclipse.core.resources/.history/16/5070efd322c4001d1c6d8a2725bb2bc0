@@ -1,0 +1,48 @@
+package model.entities;
+
+public class Parcelas {
+
+	private Integer numeroDeParcelas;
+	private Double tax;
+	private Contract contract;
+
+	public Parcelas(Integer numeroDeParcelas, Double tax, Contract contract) {
+		super();
+		this.numeroDeParcelas = numeroDeParcelas;
+		this.tax = tax;
+		this.contract = contract;
+	}
+
+	public Integer getNumeroDeParcelas() {
+		return numeroDeParcelas;
+	}
+
+	public void setNumeroDeParcelas(Integer numeroDeParcelas) {
+		this.numeroDeParcelas = numeroDeParcelas;
+	}
+
+	public Double getTax() {
+		return tax;
+	}
+
+	public void setTax(Double tax) {
+		this.tax = tax;
+	}
+
+	public Contract getContract() {
+		return contract;
+	}
+
+	public void setContract(Contract contract) {
+		this.contract = contract;
+	}
+
+	public void processoDeParcelas(Contract contract) {
+
+		for
+		
+		contract.getContractValue() * getTax();
+		
+	}
+
+}

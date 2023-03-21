@@ -1,0 +1,14 @@
+package model.services;
+
+import java.util.Iterator;
+
+public class PaypalTaxService implements TaxService{
+
+
+	@Override
+	public void tax() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

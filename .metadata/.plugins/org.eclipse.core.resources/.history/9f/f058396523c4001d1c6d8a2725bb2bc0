@@ -1,0 +1,13 @@
+package model.services;
+
+import java.util.Iterator;
+
+public class PaypalTaxService {
+
+	public void getPaypalTax() {
+		 for (int i = 0; i<x; ++i ) {
+			 
+		 }
+	}
+	
+}

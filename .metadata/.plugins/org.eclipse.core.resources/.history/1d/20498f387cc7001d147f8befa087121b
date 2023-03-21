@@ -1,0 +1,22 @@
+package entities;
+
+public class Alura {
+
+	private String name;
+
+	public Alura(String name) {
+		super();
+		this.name = name;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	
+	
+}
