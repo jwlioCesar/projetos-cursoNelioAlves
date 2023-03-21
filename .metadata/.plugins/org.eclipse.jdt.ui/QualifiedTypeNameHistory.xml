@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
-    <fullyQualifiedTypeName name="entities.Location"/>
-    <fullyQualifiedTypeName name="java.time.chrono.ChronoLocalDateTime"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.concurrent.CancellationException"/>
-    <fullyQualifiedTypeName name="entities.Carro"/>
-    <fullyQualifiedTypeName name="entities.Animal"/>
-    <fullyQualifiedTypeName name="entities.Ave"/>
     <fullyQualifiedTypeName name="entities.Mamifero"/>
     <fullyQualifiedTypeName name="javax.swing.event.AncestorListener"/>
     <fullyQualifiedTypeName name="entities.IAnimalAEstimacao"/>
     <fullyQualifiedTypeName name="entities.IAnimalDomesticado"/>
     <fullyQualifiedTypeName name="entities.Caculadora"/>
-    <fullyQualifiedTypeName name="entities.Retangulo"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="model.entities.Vehicle"/>
@@ -29,11 +19,9 @@
     <fullyQualifiedTypeName name="java.time.Duration"/>
     <fullyQualifiedTypeName name="entities.CarRental"/>
     <fullyQualifiedTypeName name="entities.Invoice"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="exceptions.ProblemException"/>
     <fullyQualifiedTypeName name="services.TaxService"/>
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatterBuilder"/>
-    <fullyQualifiedTypeName name="application.Program"/>
     <fullyQualifiedTypeName name="model.entities.Contract"/>
     <fullyQualifiedTypeName name="model.entities.Parcelas"/>
     <fullyQualifiedTypeName name="java.util.regex.PatternSyntaxException"/>
@@ -54,10 +42,22 @@
     <fullyQualifiedTypeName name="defaultMethods.Program"/>
     <fullyQualifiedTypeName name="entities.Alura"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.security.InvalidParameterException"/>
     <fullyQualifiedTypeName name="entities.InterestService"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="entities.BrazilInterestService"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="entities.Banco"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="entities.Carro"/>
+    <fullyQualifiedTypeName name="javax.swing.text.GapContent"/>
+    <fullyQualifiedTypeName name="entities.Gato"/>
+    <fullyQualifiedTypeName name="entities.Animal"/>
+    <fullyQualifiedTypeName name="entities.Cachorro"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
+    <fullyQualifiedTypeName name="application.Program"/>
+    <fullyQualifiedTypeName name="entities.Retangulo"/>
+    <fullyQualifiedTypeName name="exceptions.DimensaoInvalidaException"/>
 </qualifiedTypeNameHistroy>
