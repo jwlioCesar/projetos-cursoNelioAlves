@@ -24,5 +24,7 @@ public abstract class Animal {
 
 	public abstract String emitirSom();
 	
-	public abstract String brincar();
+	public String brincar() {
+		return getNome() + " está brincando";
+	}
 }

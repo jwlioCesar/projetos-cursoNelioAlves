@@ -11,9 +11,4 @@ public class Cachorro extends Animal{
 	return "auau";
 	}
 
-	@Override
-	public String brincar() {
-	return "cachorro brincando";
-	}
-
 }

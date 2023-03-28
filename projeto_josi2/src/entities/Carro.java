@@ -42,7 +42,5 @@ public class Carro {
 				+ "\nModelo: " + modelo
 				+ "\nAno: " + ano;
 	}
-	
-	
-	
+
 }
