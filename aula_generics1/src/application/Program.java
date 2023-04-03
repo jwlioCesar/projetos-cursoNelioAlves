@@ -9,7 +9,7 @@ public class Program {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		PrintService<Integer> ps = new PrintService<>();
+		
 		PrintService<String> pj = new PrintService<>();
 		
 		System.out.print("How many values? ");
